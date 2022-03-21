@@ -6,9 +6,9 @@ from selenium.common.exceptions import NoSuchElementException
 chrome_driver_path = "C:/Users/robertp/Development/chromedriver.exe"
 driver = webdriver.Chrome(chrome_driver_path)
 url = "https://twitter.com/home"
-email = "robertp@papint.school.nz"
-password = "#rrRRPWP5916"
-username = "@pether_robert"
+email = "YOUR_EMAIL"
+password = "YOUR_PASSWORD"
+username = "YOUR_USERNAME"
 
 
 class InternetSpeedTwitterBot:
